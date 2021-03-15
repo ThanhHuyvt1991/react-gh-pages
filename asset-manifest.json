@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/huy/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/huy/static/js/main.1ec8e301.chunk.js",
-    "main.js.map": "/huy/static/js/main.1ec8e301.chunk.js.map",
-    "runtime-main.js": "/huy/static/js/runtime-main.0283c126.js",
-    "runtime-main.js.map": "/huy/static/js/runtime-main.0283c126.js.map",
-    "static/js/2.767f27ed.chunk.js": "/huy/static/js/2.767f27ed.chunk.js",
-    "static/js/2.767f27ed.chunk.js.map": "/huy/static/js/2.767f27ed.chunk.js.map",
-    "static/js/3.76b63066.chunk.js": "/huy/static/js/3.76b63066.chunk.js",
-    "static/js/3.76b63066.chunk.js.map": "/huy/static/js/3.76b63066.chunk.js.map",
-    "index.html": "/huy/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/huy/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.767f27ed.chunk.js.LICENSE.txt": "/huy/static/js/2.767f27ed.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/huy/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-gh-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.1ec8e301.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.1ec8e301.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.5b1e1838.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.5b1e1838.js.map",
+    "static/js/2.767f27ed.chunk.js": "/react-gh-pages/static/js/2.767f27ed.chunk.js",
+    "static/js/2.767f27ed.chunk.js.map": "/react-gh-pages/static/js/2.767f27ed.chunk.js.map",
+    "static/js/3.76b63066.chunk.js": "/react-gh-pages/static/js/3.76b63066.chunk.js",
+    "static/js/3.76b63066.chunk.js.map": "/react-gh-pages/static/js/3.76b63066.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.767f27ed.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.767f27ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0283c126.js",
+    "static/js/runtime-main.5b1e1838.js",
     "static/js/2.767f27ed.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.1ec8e301.chunk.js"
